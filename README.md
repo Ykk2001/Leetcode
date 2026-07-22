@@ -7,22 +7,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ykk2001/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ykk2001/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ykk2001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Ykk2001/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ykk2001/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ykk2001/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ykk2001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ykk2001/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ykk2001/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ykk2001/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Ykk2001/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ykk2001/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ykk2001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ykk2001/Leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Ykk2001/Leetcode/tree/master/0912-sort-an-array) |
@@ -45,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ykk2001/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ykk2001/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Ykk2001/Leetcode/tree/master/0912-sort-an-array) |
 ## String
